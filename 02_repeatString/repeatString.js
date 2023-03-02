@@ -11,7 +11,5 @@ const repeatString = function (string, times) {
   return repeatedString;
 };
 
-repeatString("mino", 4);
-
 // Do not edit below this line
 module.exports = repeatString;
